@@ -1,10 +1,11 @@
 # ChatGPT-Prompts
 
-**英文提示词示例见Prompt.md文件。**  
+详细英文提示词示例见**Prompt.md文件**。  
 
 
 引用自[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
+部分中文提示语如下：
 
 |角色|提示语|
 |:-:|-|
