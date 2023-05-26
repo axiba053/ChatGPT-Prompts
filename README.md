@@ -1,7 +1,8 @@
 # ChatGPT-Prompts
 
+**详细中文提示词已更新，见Prompts_zh.json文件**   
+
 详细英文提示词示例见**Prompt.md文件**。  
-**详细中文提示词已更新，见Prompts_zh.json文件**
 
 引用自[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
